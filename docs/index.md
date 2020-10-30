@@ -1,4 +1,8 @@
-## pointspace
+---
+layout: default
+---
+
+## Pointspace
 
 ### Videos
 

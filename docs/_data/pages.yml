@@ -1,0 +1,11 @@
+#Page data
+
+homepage: index.html
+
+pages_list_title: Pages
+pages_list:
+  - title: Funders
+    url: pages/Users.html
+
+  - title: Team
+    url: pages/Team.html
