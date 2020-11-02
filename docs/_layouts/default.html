@@ -22,6 +22,7 @@
           <a href="{{ site.data.pages.homepage | absolute_url }}" id="project_title">{{ site.data.info.title }}</a>
           <h2 id="project_tagline">{{ site.data.info.description | default: site.github.project_tagline }}</h2>
 
+          <!-- Pages list -->
           <ul>
             {% for item in site.data.pages.pages_list %}
             <a href="{{ item.url | absolute_url}}" id="page_link">{{ item.title }}</a>
